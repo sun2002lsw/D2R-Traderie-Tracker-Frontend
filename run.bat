@@ -15,5 +15,5 @@ echo.
 
 echo =================================================
 echo React 개발 서버 시작 중...
-echo http://localhost:1234 에서 실행됩니다.
+echo http://localhost:5173 에서 실행됩니다.
 call npm run dev
